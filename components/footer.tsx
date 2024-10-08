@@ -9,7 +9,7 @@ export const Footer = () => {
         track('covalent_cta');
       }}
       target="_blank"
-      href="https://www.covalenthq.com/"
+      href="https://www.meldlens.com/"
       className="container flex h-16 items-center space-x-4 sm:justify-between sm:space-x-0 "
     >
       {poweredCovalent}
