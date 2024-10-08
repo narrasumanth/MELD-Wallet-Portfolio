@@ -49,11 +49,10 @@ export default function IndexPage() {
         <section className="container flex flex-col justify-center gap-6 md:py-10 h-[calc(100vh-150px)] items-center ">
             <Flex direction="column" gap="4">
                 <h1 className="text-3xl font-extrabold leading-tight tracking-tighter md:text-4xl">
-                    GoldRush Wallet &amp; Portfolio UI
+                    MELD Wallet Portfolio UI
                 </h1>
                 <p className="max-w-[700px] text-lg text-muted-foreground">
-                    Accessible and customizable components that you can copy and paste
-                    into your apps. Free. Open Source. And Next.js 13 Ready.
+                    Track your wallets, monitor token balances, and view transaction histories.
                 </p>
                 <form onSubmit={handleResolvedAddress}>
                     <Flex direction="column" gap="2">
